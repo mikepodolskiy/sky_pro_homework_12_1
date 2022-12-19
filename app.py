@@ -1,36 +1,30 @@
-from flask import Flask, request, render_template, send_from_directory
-# from functions import ...
+# import flask modules
+from flask import Flask, send_from_directory
 
+# import funcs/blueprints
+from main.views import main_blueprint
+from loader.views import loader_blueprint
+
+# constants
 POST_PATH = "posts.json"
 UPLOAD_FOLDER = "uploads/images"
 
+# starting app
 app = Flask(__name__)
 
+# registering blueprints
+app.register_blueprint(main_blueprint)
+app.register_blueprint(loader_blueprint)
 
-@app.route("/")
-def page_index():
-    pass
-
-
-@app.route("/list")
-def page_tag():
-    pass
+# configuring app
+app.config['POST_PATH'] = POST_PATH
 
 
-@app.route("/post", methods=["GET", "POST"])
-def page_post_form():
-    pass
-
-
-@app.route("/post", methods=["POST"])
-def page_post_upload():
-    pass
-
-
+# setting path directory
 @app.route("/uploads/<path:path>")
 def static_dir(path):
     return send_from_directory("uploads", path)
 
 
-app.run()
-
+# running app with debug mode
+app.run(debug=True)
