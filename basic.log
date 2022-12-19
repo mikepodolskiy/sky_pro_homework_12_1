@@ -1,0 +1,145 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:01:40] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:01:40] "GET /uploads/IMG_20221209_101522.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:01:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:01:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:01:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:�����: ���
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:02:27] "GET /search?s=�  HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:02:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:07:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:07:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:�����: ��
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:07:45] "GET /search?s=�� HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:07:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:12:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:12:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: на
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:13:03] "GET /search?s=на HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:13:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:13:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:13:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:13:50] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:13:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: Sphere_cfd.prt
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:14:01] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:15:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:15:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:15:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:15:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл: Короб оконный_cadflo.prt не изображение
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:15:50] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:18:53] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:18:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:18:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ламп
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:19:03] "GET /search?s=ламп HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:19:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:33:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:33:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: тарелка
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:33:24] "GET /search?s=тарелка HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 22:33:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\main\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\main\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP laptop\\PycharmProjects\\Homework_12_1\\main\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-204-543
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search for: fuf
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:34] "GET /search?s=fuf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search for: и
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:40] "GET /search?s=и HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:50] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:File: Sphere_cfd.prt is not a picture
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:27:59] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:10] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:10] "GET /uploads/IMG_20221209_102133.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:13] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search for: тест
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:30] "GET /search?s=тест HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:30] "[36mGET /uploads/IMG_20221209_101522.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2022 23:28:30] "[36mGET /uploads/IMG_20221209_102133.jpg HTTP/1.1[0m" 304 -
